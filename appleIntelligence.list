@@ -1,0 +1,27 @@
+# Siri / Apple Intelligence / Private Relay / PCC / Apple Relay
+DOMAIN,guzzoni.apple.com
+DOMAIN-SUFFIX,smoot.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,siri.com
+
+DOMAIN,gateway.icloud.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,probe.icloud.com
+DOMAIN,pong.icloud.com
+DOMAIN,metrics.icloud.com
+
+DOMAIN,apple-relay.apple.com
+DOMAIN,apple-relay.akamaized.net
+DOMAIN,apple-relay.mask.apple-dns.net
+DOMAIN,apple-relay.cloudflare.com
+DOMAIN,apple-relay.fastly-edge.com
+DOMAIN,cp4.cloudflare.com
+
+# iCloud Private Relay / mask
+DOMAIN,mask.icloud.com
+DOMAIN,mask-canary.icloud.com
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask.apple-dns.net
+DOMAIN,canary.mask.apple-dns.net
